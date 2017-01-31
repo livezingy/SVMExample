@@ -1,0 +1,30 @@
+
+<?xml version="1.0" ?>   
+<opencv_storage>  
+
+<!--path of the generated files-->
+<resPath>D:/freelancer/201611/SVMExample/</resPath>
+
+<!--featureType choices: LBP/HOG/SIFT/SURF/ORB/BRISK/KAZE/AKAZE-->
+<featureType>LBP</featureType>
+
+<ddmParams><!--parameters of bag of words-->
+   <detectorType>SIFT</detectorType>
+   <descriptorType>SIFT</descriptorType>
+   <matcherType>BruteForce</matcherType>
+ </ddmParams>
+
+<vocabTrainParams>
+   <vocabSize>1000</vocabSize><!--number of visual words in vocabulary to train-->
+   <memoryUse>200</memoryUse> <!--Memory to preallocate (in MB) when training vocab.-->
+   <!--pecifies the number of descriptors to use from each image as a proportion of the total num descs.-->
+   <descProportion>0.3</descProportion>
+</vocabTrainParams>
+
+<svmTrainParamsExt>
+   <descPercent>0.5</descPercent><!-- Percentage of extracted descriptors to use for training.-->
+   <targetRatio>0.4</targetRatio><!-- Try to get this ratio of positive to negative samples (minimum)-->
+   <!--Balance class weights by number of samples in each (if true cSvmTrainTargetRatio is ignored)-->
+   <balanceClasses>true</balanceClasses>
+ </svmTrainParamsExt>
+ </opencv_storage>  

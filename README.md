@@ -7,5 +7,5 @@
 
 4. More information about SVMExample refer to http://livezingy.com/sift-surf-bag-of-words-example/
 
-![The interface of CaptchaProcess](http://livezingy.qiniudn.com/201701/opencv/featureCompare.png)
-![The flow chart of SVMExample](http://livezingy.qiniudn.com/201701/opencv/SvmExample.PNG)
+![The interface of CaptchaProcess](http://livezingy.com/uploads/201701/opencv/featureCompare.png)
+![The flow chart of SVMExample](http://livezingy.com/uploads/201701/opencv/SvmExample.PNG)

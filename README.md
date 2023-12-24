@@ -5,7 +5,5 @@
 
 3. The routine of running repository: set parameters in param.xml in the same directory as the project file .vcproj in the current project.  There is a param.xml in the the folder you could refer to.
 
-4. More information about SVMExample refer to http://livezingy.com/sift-surf-bag-of-words-example/
-
-![The interface of CaptchaProcess](http://livezingy.com/uploads/201701/opencv/featureCompare.png)
-![The flow chart of SVMExample](http://livezingy.com/uploads/201701/opencv/SvmExample.PNG)
+![The interface of CaptchaProcess](https://github.com/livezingy/SVMExample/blob/master/svmFeature.png)
+![The flow chart of SVMExample](https://github.com/livezingy/SVMExample/blob/master/svmFeature.png)

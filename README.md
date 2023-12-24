@@ -6,4 +6,4 @@
 3. The routine of running repository: set parameters in param.xml in the same directory as the project file .vcproj in the current project.  There is a param.xml in the the folder you could refer to.
 
 ![The interface of CaptchaProcess](https://github.com/livezingy/SVMExample/blob/master/svmFeature.png)
-![The flow chart of SVMExample](https://github.com/livezingy/SVMExample/blob/master/svmFeature.png)
+![The flow chart of SVMExample](https://github.com/livezingy/SVMExample/blob/master/getFeature.png)
